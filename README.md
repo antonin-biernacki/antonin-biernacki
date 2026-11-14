@@ -6,4 +6,4 @@ C'est ce que j'ai fait en binôme avec un ordonnanceur préemptif pour ATmega328
 
 Mon projet perso du moment : faire parler un PC Linux et un iPhone en AirDrop ([awdl-linux-poc](https://github.com/antonin-biernacki/awdl-linux-poc)). L'iPhone voit déjà le PC et s'y connecte, il manque encore le premier fichier.
 
-[Site web](https://antonin-biernacki.github.io) · [CV](https://antonin-biernacki.github.io/cv/)
+[Site web](https://antonin-biernacki.github.io) · [LinkedIn](https://www.linkedin.com/in/antonin-biernacki/) · [CV](https://antonin-biernacki.github.io/cv/)
